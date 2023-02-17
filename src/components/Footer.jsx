@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="d-flex align-items-center justify-content-center pb-5">
           <div className="col-md-6">
             <p className="mb-3 mb-md-0">Made with ❤️ by {" "}
-              <a  href="https://sahibsingh.vercel.app" className="text-decoration-underline text-dark fs-5" target="_blank" rel="noreferrer">Manas Yadav</a>
+              <a  href="https://vercel.com/korosukke/ecommerce" className="text-decoration-underline text-dark fs-5" target="_blank" rel="noreferrer">Manas Yadav</a>
             </p>
             <a className="text-dark fs-4" href="https://github.com/Korosukke" target="_blank" rel="noreferrer">
               <i className="fa fa-github"></i>
